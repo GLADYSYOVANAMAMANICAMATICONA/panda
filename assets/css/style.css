@@ -6,6 +6,7 @@ font-family: 'Raleway', sans-serif;
 */
 
 /* Escribe tu código acá debajo */
+
 /*para ceterar*/
 *{
   margin: 0px;
@@ -16,7 +17,7 @@ font-family: 'Raleway', sans-serif;
   font-family: 'Raleway', sans-serif;
 
 }
-
+/*solo afecta al header y footer*/
 header, footer{
   text-align: right;
   padding: 20px
@@ -25,7 +26,6 @@ header, footer{
 p{
   font-size: 0.8em;
 }
-
 /*Love Love*/
 .panda{
   text-align: center;
@@ -33,7 +33,7 @@ p{
   padding: 50px;
   margin: 0 auto;
 }
-
+/*imagenes grandes*/
 .about-panda{
   padding: 50px 30px;
   background: #ABE188;
@@ -41,10 +41,13 @@ p{
   border-top: 13px solid #F78E69 ;
   border-bottom: 15px solid #F78E69 ;
 }
+/*imagnes insertados desde javascript*/
 .cssimagen{
   margin: 20px;
   border: 10px solid white;
 }
+
+/*afecta a las imags grandes para blanco y negro*/
 .img-oso{
 width: 100%;
 filter: grayscale(100%);
@@ -52,7 +55,7 @@ filter: grayscale(100%);
 
 #h1{
   background: #ABE188;
-  font-size: 45px;
+  font-size: 50px;
 }
 
 
