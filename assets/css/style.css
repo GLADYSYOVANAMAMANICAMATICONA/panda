@@ -1,0 +1,63 @@
+/*
+Colores & tipografía:
+Verde - #ABE188;
+Rosa - #F78E69;
+font-family: 'Raleway', sans-serif;
+*/
+
+/* Escribe tu código acá debajo */
+/*para ceterar*/
+*{
+  margin: 0px;
+  background: #F78E69;;
+  border: 0px;
+  box-sizing: border-box;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+header, footer{
+  text-align: right;
+  padding: 20px
+}
+
+p{
+  font-size: 0.8em;
+}
+
+/*Love Love*/
+.panda{
+  text-align: center;
+  width: 60%;
+  padding: 50px;
+  margin: 0 auto;
+}
+
+.about-panda{
+  padding: 50px 30px;
+  background: #ABE188;
+  text-align: center;
+  border-top: 13px solid #F78E69 ;
+  border-bottom: 15px solid #F78E69 ;
+}
+
+.img-oso{
+width: 100%;
+filter: grayscale(100%);
+}
+
+.h2{
+  background: #ABE188
+}
+
+
+#imagenes{
+  background: #ABE188;
+  text-align: center;
+  padding: 15px;
+}
+
+.oso {
+  font-size: 0px;
+}
