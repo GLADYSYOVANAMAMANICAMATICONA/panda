@@ -50,8 +50,9 @@ width: 100%;
 filter: grayscale(100%);
 }
 
-.h2{
+#h1{
   background: #ABE188;
+  font-size: 50px;
 }
 
 
