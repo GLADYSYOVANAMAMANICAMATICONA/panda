@@ -38,8 +38,8 @@ p{
   padding: 50px 30px;
   background: #ABE188;
   text-align: center;
-  border-top: 13px solid #F78E69 ;
-  border-bottom: 15px solid #F78E69 ;
+  border-top: 10px solid #F78E69 ;
+  border-bottom: 10px solid #F78E69 ;
 }
 /*imagnes insertados desde javascript*/
 .cssimagen{
@@ -47,7 +47,7 @@ p{
   border: 10px solid white;
 }
 
-/*afecta a las imags grandes para blanco y negro*/
+/*afecta a las imags*/
 .img-oso{
 width: 100%;
 filter: grayscale(100%);
@@ -62,9 +62,10 @@ filter: grayscale(100%);
 #imagenes{
   background: #ABE188;
   text-align: center;
-  padding: 15px;
 }
 
 .oso {
   font-size: 0px;
+  border-top: 10px solid #F78E69;
+  border-bottom: 10px solid #F78E69;
 }
