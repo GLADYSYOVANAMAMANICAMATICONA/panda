@@ -12,7 +12,6 @@ font-family: 'Raleway', sans-serif;
   margin: 0px;
   background: #F78E69;;
   border: 0px;
-  box-sizing: border-box;
   color: white;
   font-family: 'Raleway', sans-serif;
 
@@ -38,8 +37,8 @@ p{
   padding: 50px 30px;
   background: #ABE188;
   text-align: center;
-  border-top: 10px solid #F78E69 ;
-  border-bottom: 10px solid #F78E69 ;
+  border-top: 20px solid #F78E69 ;
+  border-bottom: 20px solid #F78E69 ;
 }
 /*imagnes insertados desde javascript*/
 .cssimagen{
@@ -53,19 +52,21 @@ width: 100%;
 filter: grayscale(100%);
 }
 
+
+.imagenes{
+  width: 100%;
+  margin: 20px 0px;
+}
+
 #h1{
   background: #ABE188;
   font-size: 50px;
 }
 
-
 #imagenes{
   background: #ABE188;
   text-align: center;
-}
+  width: 100%;
+  margin: 0 auto;
 
-.oso {
-  font-size: 0px;
-  border-top: 10px solid #F78E69;
-  border-bottom: 10px solid #F78E69;
 }
